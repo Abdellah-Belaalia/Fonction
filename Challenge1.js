@@ -4,4 +4,4 @@ return a + b;
 }
 let a = Number(prompt("Choisis un nombre a : "));
 let b = Number(prompt("Choisis un nombre b : "));
-console.log(`La somme est : ${a + b} `);
+console.log(`La somme de a et b equal ${somme(a,b)}`);
